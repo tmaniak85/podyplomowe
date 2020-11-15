@@ -1,0 +1,1 @@
+Program wyświetlający imię
